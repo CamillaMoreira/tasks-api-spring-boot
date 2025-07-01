@@ -1,0 +1,21 @@
+
+        CCCCCCCCCCCCC                                            iiii  lllllll lllllll
+     CCC::::::::::::C                                           i::::i l:::::l l:::::l
+   CC:::::::::::::::C                                            iiii  l:::::l l:::::l
+  C:::::CCCCCCCC::::C                                                  l:::::l l:::::l
+ C:::::C       CCCCCC  aaaaaaaaaaaaa      mmmmmmm    mmmmmmm   iiiiiii  l::::l  l::::l   aaaaaaaaaaaaa
+C:::::C                a::::::::::::a   mm:::::::m  m:::::::mm i:::::i  l::::l  l::::l   a::::::::::::a
+C:::::C                aaaaaaaaa:::::a m::::::::::mm::::::::::m i::::i  l::::l  l::::l   aaaaaaaaa:::::a
+C:::::C                         a::::a m::::::::::::::::::::::m i::::i  l::::l  l::::l            a::::a
+C:::::C                  aaaaaaa:::::a m:::::mmm::::::mmm:::::m i::::i  l::::l  l::::l     aaaaaaa:::::a
+C:::::C                aa::::::::::::a m::::m   m::::m   m::::m i::::i  l::::l  l::::l   aa::::::::::::a
+C:::::C               a::::aaaa::::::a m::::m   m::::m   m::::m i::::i  l::::l  l::::l  a::::aaaa::::::a
+ C:::::C       CCCCCCa::::a    a:::::a m::::m   m::::m   m::::m i::::i  l::::l  l::::l a::::a    a:::::a
+  C:::::CCCCCCCC::::Ca::::a    a:::::a m::::m   m::::m   m::::mi::::::il::::::ll::::::la::::a    a:::::a
+   CC:::::::::::::::Ca:::::aaaa::::::a m::::m   m::::m   m::::mi::::::il::::::ll::::::la:::::aaaa::::::a
+     CCC::::::::::::C a::::::::::aa:::am::::m   m::::m   m::::mi::::::il::::::ll::::::l a::::::::::aa:::a
+        CCCCCCCCCCCCC  aaaaaaaaaa  aaaammmmmm   mmmmmm   mmmmmmiiiiiiiillllllllllllllll  aaaaaaaaaa  aaaa
+
+
+                                        MINHA PRIMEIRA API
+
